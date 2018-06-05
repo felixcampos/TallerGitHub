@@ -11,6 +11,6 @@ Enseñando a usar **GitHub** y **Markdown**.
 ...javascript
     function hola()
     {
-        console.log("Hola Mundo");
+        console.log('Hola Mundo');
     }    
 ...    
