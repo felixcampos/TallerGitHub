@@ -8,9 +8,3 @@ Enseñando a usar **GitHub** y **Markdown**.
 - lista 2
 - lista 3
 
-...javascript
-    function hola()
-    {
-        console.log('Hola Mundo');
-    }    
-...    
